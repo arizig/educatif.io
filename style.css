@@ -2,9 +2,23 @@ h1 {
     color: darkblue;
 }
 
-p {
+#first-p {
     color: green;
 }
 hr {
     border: 2px solid black
+}
+
+ul {
+    list-style: none;
+}
+
+#hr-last {
+    border: 4px dotted red
+
+}
+
+span {
+    font-weight:600;
+    color: red;
 }
